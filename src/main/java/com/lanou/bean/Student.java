@@ -3,7 +3,7 @@ package com.lanou.bean;
 public class Student {
     private Integer id;
 
-    private String name;
+    private String name="你是瓜皮么";
 
     private String sex;
 
